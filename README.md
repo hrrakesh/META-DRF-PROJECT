@@ -4,6 +4,7 @@ Little Lemon Restaurant API (Django REST Framework)
 
 A fully functional RESTful API built for the Little Lemon Restaurant project using Django REST Framework (DRF). This API demonstrates best practices in API design, performance optimization, authentication, and data validation.
 
+
 🧩 Tech Stack
 
 Backend Framework: Django (Web Framework)
